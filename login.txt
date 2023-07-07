@@ -6,3 +6,5 @@ android
 Html
 ios
 java
+
+genshin
